@@ -27,3 +27,17 @@ class ClickTracker {
 }
 
 module.exports = ClickTracker;
+
+// Nutzung Library
+
+// const ClickTracker = require('my-click-tracker');
+
+// const tracker = new ClickTracker();
+
+// // Beispiel: Tracke einen Seitenklick
+// tracker.trackPageClick(window.location.href);
+
+// // Beispiel: Tracke einen Button-Klick
+// document.getElementById('myButton').addEventListener('click', () => {
+//     tracker.trackButtonClick('myButton');
+// });
